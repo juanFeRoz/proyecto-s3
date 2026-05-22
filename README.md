@@ -17,12 +17,11 @@ Sistema académico basado en microservicios desarrollado como proyecto final del
 9. [Usuarios de prueba](#9-usuarios-de-prueba)
 10. [Datos semilla](#10-datos-semilla)
 11. [Endpoints principales](#11-endpoints-principales)
-12. [Nueva funcionalidad: matrículas por estudiante](#12-nueva-funcionalidad-matrículas-por-estudiante)
-13. [Flujo recomendado de prueba](#13-flujo-recomendado-de-prueba)
-14. [Variables de entorno Docker](#14-variables-de-entorno-docker)
-15. [Respuestas de seguridad](#15-respuestas-de-seguridad)
-16. [Problemas comunes](#16-problemas-comunes)
-17. [Comandos útiles](#17-comandos-útiles)
+12. [Flujo recomendado de prueba](#13-flujo-recomendado-de-prueba)
+13. [Variables de entorno Docker](#14-variables-de-entorno-docker)
+14. [Respuestas de seguridad](#15-respuestas-de-seguridad)
+15. [Problemas comunes](#16-problemas-comunes)
+16. [Comandos útiles](#17-comandos-útiles)
 
 ---
 
