@@ -2,9 +2,6 @@
 
 Sistema académico basado en microservicios desarrollado como proyecto final del curso. Permite gestionar **estudiantes**, **cursos** y **matrículas** con autenticación por JWT y despliegue con Docker.
 
-### Link al informe
-https://docs.google.com/document/d/1s3e6f2etg3T0OP9_RQLpmNlX3j_0VtoglQ3gVMBm5QA/edit?usp=sharing
-
 ---
 
 ## Tabla de contenidos
