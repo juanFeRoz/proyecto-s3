@@ -28,8 +28,7 @@ public class MatriculaController {
 
     @GetMapping("/{id}")
     public ApiResponse<MatriculaDTO> buscarPorId(
-            @Parameter(description = "Id de la matrícula", required = true)
-            @PathVariable("id") Long id) {
+            @Parameter(description = "Id de la matrícula", required = true) @PathVariable("id") Long id) {
         return ResponseBuilder.success("Consulta exitosa", handler.buscarPorId(id));
     }
 
@@ -40,8 +39,7 @@ public class MatriculaController {
 
     @PutMapping("/{id}/anular")
     public ApiResponse<MatriculaDTO> anular(
-            @Parameter(description = "Id de la matrícula", required = true)
-            @PathVariable("id") Long id) {
+            @Parameter(description = "Id de la matrícula", required = true) @PathVariable("id") Long id) {
         return ResponseBuilder.success("Matrícula anulada", handler.anular(id));
     }
 }
